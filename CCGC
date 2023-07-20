@@ -1,0 +1,21 @@
+{
+
+  "contact": "smoog77 on Discord, or lafgl on Discord",
+
+  "templates": [
+
+    {
+      "name": "CCGC",
+      "sources": [
+        "https://raw.githubusercontent.com/april-knights/overlaytemplates/main/AprilKnightsDay1newPlan.png"
+      ],
+      "x": 690,
+      "y": 733
+    }
+  ],
+  "whitelist": [
+    {
+    }
+  ],
+  "blacklist": []
+}
