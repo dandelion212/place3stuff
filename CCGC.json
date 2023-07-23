@@ -17,6 +17,10 @@
     {
       "name": "AK",
       "url": "https://raw.githubusercontent.com/april-knights/overlaytemplates/main/AprilKnightsjson.json"
+    },
+    {
+      "name": "Taskbar",
+      "url": "https://raw.githubusercontent.com/PlaceStartScripts/Vista-Overlay/main/PlaceStart.json"
     }
   ],
   "blacklist": []
