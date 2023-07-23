@@ -7,14 +7,16 @@
     {
       "name": "CCGC",
       "sources": [
-        "https://raw.githubusercontent.com/april-knights/overlaytemplates/main/AprilKnightsDay1newPlan.png"
+        "https://raw.githubusercontent.com/dandelion212/place3stuff/main/baby%20camel.png"
       ],
-      "x": 690,
-      "y": 733
+      "x": 82,
+      "y": 373
     }
   ],
   "whitelist": [
     {
+      "name": "AK",
+      "url": "https://raw.githubusercontent.com/april-knights/overlaytemplates/main/AprilKnightsjson.json"
     }
   ],
   "blacklist": []
