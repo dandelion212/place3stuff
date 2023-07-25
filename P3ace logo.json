@@ -5,14 +5,15 @@
   "templates": [
 
     {
-      "name": "P3ace",
+      "name": "p3ace logo",
       "sources": [
         "https://raw.githubusercontent.com/dandelion212/place3stuff/main/p3ace.png"
       ],
-      "x": 2601,
-      "y": 942
+      "x": 2501,
+      "y": 952
     }
   ],
-  "whitelist": []
+  "whitelist": [
+  ],
   "blacklist": []
 }
