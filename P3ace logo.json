@@ -1,0 +1,18 @@
+{
+
+  "contact": "lafgl on Discord",
+
+  "templates": [
+
+    {
+      "name": "P3ace",
+      "sources": [
+        "https://raw.githubusercontent.com/dandelion212/place3stuff/main/p3ace.png"
+      ],
+      "x": 1800,
+      "y": 870
+    }
+  ],
+  "whitelist": []
+  "blacklist": []
+}
